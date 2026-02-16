@@ -1,0 +1,16 @@
+/* Background color */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Text color */
+h1 {
+    color: darkblue;
+}
+
+/* Padding applied to paragraph */
+p {
+    padding: 15px;
+}
